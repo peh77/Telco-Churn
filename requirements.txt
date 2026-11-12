@@ -1,0 +1,12 @@
+numpy==2.4.6
+pandas==3.1.1
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+joblib==1.6.0
+ipykernel==7.4.0
+nbclient==0.11.0
+nbformat==5.11.1
+python-docx==1.2.0
+pywin32==312; sys_platform == 'win32'
+pymupdf==2.1
