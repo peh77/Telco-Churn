@@ -1,0 +1,52 @@
+﻿변수,중요도
+num__TotalCharges,0.11486241140552678
+num__MonthlyCharges,0.10207468681198724
+num__tenure,0.09320347806449238
+num__AvgChargeRatio,0.08181646835102958
+cat__Contract_Month-to-month,0.08105365714117697
+cat__OnlineSecurity_No,0.03750836780915071
+cat__TechSupport_No,0.028827925533191533
+cat__PaymentMethod_Electronic check,0.02767555443778257
+cat__InternetService_Fiber optic,0.02752639965692145
+num__ServiceCount,0.026141126714005442
+cat__TenureGroup_0-12m,0.02072728808574063
+cat__Contract_Two year,0.017475168926764817
+cat__TenureGroup_49m+,0.015256510797193399
+cat__gender_Male,0.014031861669596047
+cat__gender_Female,0.013924773574694698
+cat__PaperlessBilling_No,0.0133613956801431
+cat__OnlineBackup_No,0.013150886836197657
+num__SeniorCitizen,0.01269480931116135
+cat__PaperlessBilling_Yes,0.012330058394050398
+cat__InternetService_DSL,0.012172904112063393
+cat__Partner_No,0.011653942871761034
+cat__Partner_Yes,0.010732800885074278
+cat__PaymentMethod_Bank transfer (automatic),0.010714018711825892
+cat__PaymentMethod_Credit card (automatic),0.010478732321993426
+cat__TechSupport_Yes,0.010436972480677967
+cat__Dependents_Yes,0.01024974441075439
+cat__DeviceProtection_No,0.009998816077784543
+cat__Contract_One year,0.009737311939162316
+cat__MultipleLines_No,0.0097103367583313
+cat__OnlineBackup_Yes,0.009695674280820223
+cat__MultipleLines_Yes,0.009594443264242414
+cat__Dependents_No,0.009486475950961356
+cat__PaymentMethod_Mailed check,0.009400609140725756
+cat__StreamingMovies_Yes,0.009264178325353126
+cat__DeviceProtection_Yes,0.009046801031357965
+cat__OnlineSecurity_Yes,0.008937347904405575
+cat__StreamingTV_Yes,0.008698020095803564
+cat__StreamingMovies_No,0.008600415250560392
+cat__StreamingTV_No,0.007797692398817404
+cat__TenureGroup_25-48m,0.007326375959522165
+cat__DeviceProtection_No internet service,0.006022062242265038
+cat__TenureGroup_13-24m,0.00553312420428811
+cat__OnlineBackup_No internet service,0.00500220981439485
+cat__InternetService_No,0.004441808982063132
+cat__StreamingMovies_No internet service,0.004335200041379833
+cat__StreamingTV_No internet service,0.003286200839323088
+cat__TechSupport_No internet service,0.003270252505450962
+cat__OnlineSecurity_No internet service,0.002992805343610305
+cat__PhoneService_Yes,0.0027897378659542957
+cat__MultipleLines_No phone service,0.0024976044256855797
+cat__PhoneService_No,0.002452550362779678
